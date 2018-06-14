@@ -27,7 +27,7 @@
       <scope>test</scope>
     </dependency>
 </dependencies>
-<!--<profiles>
+<profiles>
 <profile>
 <id>sonar</id>
 <activation>
@@ -41,7 +41,6 @@ http://http://35.185.86.222:8888
 </properties>
 </profile>
 </profiles> 
--->
 
 <distributionManagement>
 <repository>
