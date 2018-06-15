@@ -36,13 +36,13 @@
 <repository>
 <id>Releases</id>
 <name>Releases</name>
-<url>http://35.185.86.222:8081/nexus/content/repositories/releases/</url>
+<url>http://35.237.166.12:8081/nexus/content/repositories/releases/</url>
 </repository>
 
 <snapshotRepository>
 <id>Snapshots</id>
 <name>Snapshots</name>
-<url>http://35.185.86.222:8081/nexus/content/repositories/snapshots/</url>
+<url>http://35.237.166.12:8081/nexus/content/repositories/snapshots/</url>
 </snapshotRepository>
 </distributionManagement>
 
